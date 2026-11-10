@@ -1,0 +1,6 @@
+@RoutinelyApi_HostAddress = http://localhost:5155
+
+GET {{RoutinelyApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
